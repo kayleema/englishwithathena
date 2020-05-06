@@ -22,8 +22,8 @@ title: English with Athena
 email: athena.mann95@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Online American English classes for every level
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/englishwithathena/" # the subpath of your site, e.g. /blog
+url: "https://www.kaylee.jp" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
