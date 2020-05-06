@@ -14,4 +14,4 @@ Athena grew up and graduated from university in California, USA. She has taught 
 * 8 class package - 25 USD / lesson
 
 ### Sign up now
-[Click here to sign up now](https://forms.gle/JTfaTrS5VFAvW6Tz5)
+[click here to get started](https://forms.gle/JTfaTrS5VFAvW6Tz5)
